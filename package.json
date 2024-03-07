@@ -1,0 +1,22 @@
+{
+  "name": "binhphuong-bolognesedog26",
+  "version": "1.0.1",
+  "description": "bolognesedog26",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolognesedog26/binhphuong-bolognesedog26.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "bolognesedog26",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolognesedog26/binhphuong-bolognesedog26/issues"
+  },
+  "homepage": "https://github.com/bolognesedog26/binhphuong-bolognesedog26#readme"
+}
