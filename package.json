@@ -1,6 +1,6 @@
 {
   "name": "binhphuong-bolognesedog26",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "bolognesedog26",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "cacl"
   ],
   "author": "bolognesedog26",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bolognesedog26/binhphuong-bolognesedog26/issues"
   },
